@@ -1,0 +1,2 @@
+Juanito,Perez,1.111.111-1,ABC123,2000
+Kamila,Opazo,20.600.064-3,123ABC,12000
